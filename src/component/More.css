@@ -1,0 +1,33 @@
+.more{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.parent_more{
+    display: flex;
+    width: 80%;
+    height: auto;
+    background-color: rgb(107, 150, 150);
+    justify-content: space-evenly;
+    padding: 10px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+}
+.oup{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: black;
+    margin: 0%;
+}
