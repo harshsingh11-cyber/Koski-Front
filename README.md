@@ -3,6 +3,7 @@
 This is a CRM (Customer Relationship Management) application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application helps businesses manage their customer interactions, track leads, and improve customer service.
 
 ## hosted Link
+[live-point](https://stalwart-naiad-de70e6.netlify.app/)
 
 ## Requirements
 
@@ -69,5 +70,20 @@ To run this application locally, you need to set up the MERN development environ
 Please feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Your feedback is highly appreciated.
 
 ## Screnshot
+![Screenshot (610)](https://github.com/harshsingh11-cyber/Koski-Front/assets/65847214/8d9b0657-a6ed-4ed6-a4c6-92455643f6fc)
+![Screenshot (611)](https://github.com/harshsingh11-cyber/Koski-Front/assets/65847214/e6c1220c-1879-44d7-97be-c7dff06cc419)
+![Screenshot (612)](https://github.com/harshsingh11-cyber/Koski-Front/assets/65847214/20a18f85-9c29-4472-b192-07d5d1e24edc)
+![Screenshot (613)](https://github.com/harshsingh11-cyber/Koski-Front/assets/65847214/33c06e53-79db-48b1-bd5e-b660eb402d3a)
+![Screenshot (614)](https://github.com/harshsingh11-cyber/Koski-Front/assets/65847214/700d7cd8-8c51-4d7e-880b-61010d4d71a2)
+![Screenshot (615)](https://github.com/harshsingh11-cyber/Koski-Front/assets/65847214/b65d0cfa-d33c-4fa9-986e-0cdedf3e4d37)
+
+
+
+
+
+
+
+
+
 
 
